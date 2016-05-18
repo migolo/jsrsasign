@@ -27,7 +27,7 @@
  * @name KJUR
  * @namespace kjur's class library name space
  */
-if (typeof KJUR == "undefined" || !KJUR) KJUR = {};
+if (typeof KJUR == "undefined" || !KJUR) var KJUR = {};
 
 /**
  * kjur's ASN.1 class library name space
